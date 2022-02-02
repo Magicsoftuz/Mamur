@@ -1,2 +1,0 @@
-# Mamur
-## MagicSoft
